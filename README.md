@@ -1,0 +1,1 @@
+# connectorPlugin-emulator-hook-regex-list
