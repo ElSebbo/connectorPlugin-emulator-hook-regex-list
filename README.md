@@ -1,3 +1,3 @@
 # connectorPlugin-emulator-hook-regex-list
 
-comming soon
+Feel free to add lists for window titles, path/file-lists, process-name lists.
